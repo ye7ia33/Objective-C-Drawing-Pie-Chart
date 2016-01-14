@@ -1,4 +1,4 @@
-# Objective-C-Drawing-Pie-Chart
+# Objective C Drawing Pie Chart
 ##steps to  draw pie
 
 1-copy pie folder into project 
